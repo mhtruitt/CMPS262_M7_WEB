@@ -1,0 +1,44 @@
+/*
+body {
+    font-family:Arial, Helvetica, sans-serif;
+    margin: 20px;
+    padding: 20px;
+}
+
+#grid-container {
+    max-width: 90%;
+    margin: auto;
+}
+*/
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 20px;
+    padding: 20px;
+    background-color: #cdfcf8; /* Light blue background for the entire page */
+    color: #1a2e2d; /* Dark blue text color for better readability */
+}
+
+#grid-container {
+    max-width: 90%;
+    margin: auto;
+}
+
+h2 {
+    text-align: center;
+    color: #1a2e2d; /* Dark blue color for headings */
+}
+
+.gridjs-table {
+    border: 2px solid #1a2e2d; /* Dark blue border for the table */
+}
+
+.gridjs-th {
+    background-color: #cdfcf8; /* Light blue background for table headers */
+    color: #ffffff; /* White text color for better contrast */
+    text-align: left;
+}
+
+.gridjs-id {
+    border-bottom: 1px solid #cdfcf8; /* Light blue border for ID column */
+    padding: 8px;
+}
