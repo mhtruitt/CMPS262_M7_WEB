@@ -1,0 +1,16 @@
+# Clever Application
+
+## What is the Clever Website
+Clever is a service for users to keep an organized list of video games they've played and those they'd like to play
+
+## What mobile operating systems does Clever reside on?
+It's currently only available on desktop
+
+## What platform was the app developed on?
+- Version 1.0 was developed on Visual Studio
+
+## What programming languages were utilized?
+- JavaScript
+- SQL
+- HTML
+- CSS
